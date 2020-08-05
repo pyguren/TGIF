@@ -1,0 +1,85 @@
+body{
+    background-color: background: #C6FFDD;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f7797d, #FBD786, #C6FFDD);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f7797d, #FBD786, #C6FFDD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    ;
+}
+
+.th1 {
+    width: 520px;
+    background-color: darkgrey;
+}
+
+.th2 {
+    width: 110px;
+    background-color: darkgrey;
+}
+
+.th3 {
+    width: 140px;
+    background-color: darkgrey;
+}
+
+.th4 {
+    width: 120px;
+    background-color: darkgrey;
+}
+
+.th5 {
+    background-color: darkgrey;
+}
+
+.table {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.ph1 {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.h21 {
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    font-family: cursive;
+    font-size: large;
+}
+
+.margenc {
+    text-align: center;
+}
+
+.congressusa {
+    border: 4px solid black;
+    border-radius: 20%;
+    margin-bottom: 20px;
+    margin-left: 350px;
+    margin-top: 20px;
+}
+
+.col-4 {
+    top: 20px;
+}
+
+/* .col col-4 {
+    margin-top: 5px;
+} */
+
+tbody tr:hover {
+    background-color: lightblue;
+    color: #666666;
+}
+
+/* .custom-control-input inp {
+    margin-block: 50px;
+    width: 30px;
+} */
+
+h2 {
+    margin-top: 20px;
+}
